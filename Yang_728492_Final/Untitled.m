@@ -1,0 +1,1 @@
+num=xlsread(data2.xlsx)
