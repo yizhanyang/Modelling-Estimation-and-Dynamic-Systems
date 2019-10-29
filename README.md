@@ -5,4 +5,4 @@ Course Assignments and Final Project ELEC-E8103 Modelling, Estimation and Dynami
 
 
 # The Project
-* [Final Project](https://github.com/yizhanyang/Modelling-Estimation-and-Dynamic-Systems/blob/master/Yang_728492_Final/Yang_728492_Final.pdf)
+* [Final Solution](https://github.com/yizhanyang/Modelling-Estimation-and-Dynamic-Systems/blob/master/Yang_728492_Final/Yang_728492_Final.pdf)
