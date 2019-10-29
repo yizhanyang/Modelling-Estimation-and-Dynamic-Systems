@@ -1,5 +1,5 @@
 # Modelling-Estimation-and-Dynamic-Systems
-Course Assignments and Final Project ELEC-E8103 Modelling, Estimation and Dynamic Systems course
+Course Assignments and Final Project ELEC-E8103 Modelling, Estimation and Dynamic Systems
 
 # Assignments
 * [Physical Modelling](https://github.com/yizhanyang/Modelling-Estimation-and-Dynamic-Systems/blob/master/as1/ELEC-E8103-Assignment01.pdf)  
